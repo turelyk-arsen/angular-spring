@@ -10,4 +10,6 @@ export class Employee {
         this.lastName = lastName;
         this.emailId = emailId;
       }
+
+      
 }
